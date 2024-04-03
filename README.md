@@ -1,0 +1,1 @@
+This exercise in React was done following instructions in the course "React - The Complete Guide 2024 (incl. React Router & Redux)" by Maximilian Schwarzmüller, to whom go my thanks for teaching such an interesting topic.
